@@ -1,3 +1,9 @@
+<!-- badges: start -->
+[![R build status](https://github.com/horaciochacon/ENDES.PE/workflows/R-CMD-check/badge.svg)](https://github.com/horaciochacon/ENDES.PE/actions)
+
+[![DOI](https://zenodo.org/badge/149674585.svg)](https://zenodo.org/badge/latestdoi/149674585)
+<!-- badges: end -->
+
 # ENDES.PE
 
 ENDES.PE es un paquete de manejo y obtención de información de la Encuesta Demográfica y de Salud Familiar del Perú. Este paquete permite la descarga de las bases de datos de la ENDES desde el portal Microdatos del [INEI](http://iinei.inei.gob.pe/microdatos/). 

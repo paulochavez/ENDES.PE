@@ -1,0 +1,213 @@
+﻿Nro,id,año,periodo,codigo_encuesta,nombre_encuesta,codigo_modulo,modulo
+1,2020_739_1,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1629,Caracteristicas del Hogar
+2,2020_739_2,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1630,Caracteristicas de la Vivienda
+3,2020_739_3,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1631,Datos Basicos de MEF
+4,2020_739_4,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1632,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2020_739_5,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1633,"Embarazo, Parto, Puerperio y Lactancia"
+6,2020_739_6,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1634,Inmunización y Salud
+7,2020_739_7,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1635,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2020_739_8,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1636,Conocimiento de Sida y uso del condón
+9,2020_739_9,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1637,Mortalidad Materna - Violencia Familiar
+10,2020_739_10,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1638,Peso y talla - Anemia
+11,2020_739_11,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1639,Disciplina Infantil
+12,2020_739_12,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1640,Encuesta de salud
+13,2020_739_13,2020,5,739,Encuesta Demográfica y de Salud Familiar - ENDES,1641,Programas Sociales
+1,2019_691_1,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2019_691_2,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2019_691_3,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2019_691_4,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2019_691_5,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2019_691_6,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2019_691_7,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2019_691_8,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2019_691_9,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2019_691_10,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2019_691_11,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2019_691_12,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+13,2019_691_13,2019,5,691,Encuesta Demográfica y de Salud Familiar - ENDES,569,Programas Sociales
+1,2018_638_1,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2018_638_2,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2018_638_3,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2018_638_4,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2018_638_5,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2018_638_6,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2018_638_7,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2018_638_8,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2018_638_9,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2018_638_10,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2018_638_11,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2018_638_12,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+13,2018_638_13,2018,5,638,Encuesta Demográfica y de Salud Familiar - ENDES,569,Programas Sociales
+1,2017_605_1,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2017_605_2,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2017_605_3,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2017_605_4,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2017_605_5,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2017_605_6,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2017_605_7,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2017_605_8,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2017_605_9,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2017_605_10,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2017_605_11,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2017_605_12,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+13,2017_605_13,2017,5,605,Encuesta Demográfica y de Salud Familiar - ENDES,569,Programas Sociales
+1,2016_548_1,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2016_548_2,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2016_548_3,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2016_548_4,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2016_548_5,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2016_548_6,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2016_548_7,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2016_548_8,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2016_548_9,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2016_548_10,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2016_548_11,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2016_548_12,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+13,2016_548_13,2016,5,548,Encuesta Demográfica y de Salud Familiar - ENDES,569,Programas Sociales
+1,2015_504_1,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2015_504_2,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2015_504_3,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2015_504_4,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2015_504_5,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2015_504_6,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2015_504_7,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2015_504_8,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2015_504_9,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2015_504_10,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2015_504_11,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2015_504_12,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+13,2015_504_13,2015,5,504,Encuesta Demográfica y de Salud Familiar - ENDES,569,Programas Sociales
+1,2014_441_1,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2014_441_2,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2014_441_3,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2014_441_4,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2014_441_5,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2014_441_6,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2014_441_7,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2014_441_8,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2014_441_9,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2014_441_10,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2014_441_11,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2014_441_12,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+13,2014_441_13,2014,5,441,Encuesta Demográfica y de Salud Familiar - ENDES,569,Programas Sociales
+1,2013_407_1,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2013_407_2,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2013_407_3,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2013_407_4,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2013_407_5,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2013_407_6,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2013_407_7,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2013_407_8,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2013_407_9,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2013_407_10,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+11,2013_407_11,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,413,Disciplina Infantil
+12,2013_407_12,2013,5,407,Encuesta Demográfica y de Salud Familiar - ENDES,414,Encuesta de salud
+1,2012_323_1,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2012_323_2,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2012_323_3,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2012_323_4,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2012_323_5,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2012_323_6,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2012_323_7,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2012_323_8,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2012_323_9,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2012_323_10,2012,5,323,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2011_290_1,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2011_290_2,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2011_290_3,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2011_290_4,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2011_290_5,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2011_290_6,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2011_290_7,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2011_290_8,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2011_290_9,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2011_290_10,2011,5,290,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2010_260_1,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2010_260_2,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2010_260_3,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2010_260_4,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2010_260_5,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2010_260_6,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2010_260_7,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2010_260_8,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2010_260_9,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2010_260_10,2010,5,260,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2009_238_1,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2009_238_2,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2009_238_3,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2009_238_4,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2009_238_5,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2009_238_6,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2009_238_7,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2009_238_8,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2009_238_9,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2009_238_10,2009,5,238,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2008_209_1,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2008_209_2,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2008_209_3,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2008_209_4,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2008_209_5,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2008_209_6,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2008_209_7,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2008_209_8,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2008_209_9,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2008_209_10,2008,51,209,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2007_194_1,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2007_194_2,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2007_194_3,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2007_194_4,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2007_194_5,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2007_194_6,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2007_194_7,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2007_194_8,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2007_194_9,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2007_194_10,2007,5,194,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2006_183_1,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2006_183_2,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2006_183_3,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2006_183_4,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2006_183_5,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2006_183_6,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2006_183_7,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2006_183_8,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2006_183_9,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2006_183_10,2006,5,183,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2005_150_1,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2005_150_2,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2005_150_3,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2005_150_4,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2005_150_5,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2005_150_6,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2005_150_7,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2005_150_8,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2005_150_9,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2005_150_10,2005,5,150,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,2004_120_1,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2004_120_2,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2004_120_3,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2004_120_4,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2004_120_5,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2004_120_6,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2004_120_7,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2004_120_8,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2004_120_9,2004,5,120,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+1,2000_35_1,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,2000_35_2,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,2000_35_3,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,2000_35_4,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,2000_35_5,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,2000_35_6,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,2000_35_7,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,2000_35_8,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,2000_35_9,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,2000_35_10,2000,5 ,35,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
+1,1996_32_1,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,64,Caracteristicas del Hogar
+2,1996_32_2,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,65,Caracteristicas de la Vivienda
+3,1996_32_3,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,66,Datos Basicos de MEF
+4,1996_32_4,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,67,Historia de Nacimiento - Tabla de Conocimiento de Metodo
+5,1996_32_5,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,69,"Embarazo, Parto, Puerperio y Lactancia"
+6,1996_32_6,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,70,Inmunización y Salud
+7,1996_32_7,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,71,Nupcialidad - Fecundidad - Cónyugue y Mujer
+8,1996_32_8,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,72,Conocimiento de Sida y uso del condón
+9,1996_32_9,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,73,Mortalidad Materna - Violencia Familiar
+10,1996_32_10,1996,5 ,32,Encuesta Demográfica y de Salud Familiar - ENDES,74,Peso y talla - Anemia
