@@ -1,6 +1,5 @@
 <!-- badges: start -->
 [![R build status](https://github.com/horaciochacon/ENDES.PE/workflows/R-CMD-check/badge.svg)](https://github.com/horaciochacon/ENDES.PE/actions)
-
 [![DOI](https://zenodo.org/badge/149674585.svg)](https://zenodo.org/badge/latestdoi/149674585)
 <!-- badges: end -->
 
