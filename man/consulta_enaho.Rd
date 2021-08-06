@@ -4,8 +4,14 @@
 \alias{consulta_enaho}
 \title{consulta_enaho}
 \usage{
-consulta_enaho(periodo, codigo_modulo, base, guardar = FALSE,
-  ruta = "", codificacion = NULL)
+consulta_enaho(
+  periodo,
+  codigo_modulo,
+  base,
+  guardar = FALSE,
+  ruta = "",
+  codificacion = NULL
+)
 }
 \arguments{
 \item{periodo}{Año de la encuesta}

@@ -19,8 +19,7 @@ library(ENDES.PE)
 
 # paquetes
 
-```{r setup}
-library(ENDES.PE)
+```{r}
 library(srvyr)
 library(tidyverse)
 library(sjlabelled)

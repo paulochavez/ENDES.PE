@@ -4,3 +4,7 @@
 ^Meta$
 ^LICENSE\.md$
 ^vignettes/endes-howto\.Rmd$
+^ENDES\.PE\.Rproj$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
