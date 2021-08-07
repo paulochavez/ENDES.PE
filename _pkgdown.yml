@@ -1,0 +1,8 @@
+template:
+  params:
+    bootswatch: simplex
+
+navbar:
+  structure:
+    left:  [home, reference, articles]
+    right: [github]

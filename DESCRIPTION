@@ -8,6 +8,7 @@ Description: Paquete con una serie de funciones utiles para manipular, extraer y
 License: GPL-3
 Encoding: UTF-8
 LazyData: false
+URL: https://github.com/horaciochacon/ENDES.PE
 Imports:
   haven (>= 2.0), 
   labelled (>= 2.0),

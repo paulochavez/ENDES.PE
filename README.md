@@ -5,6 +5,10 @@
 [![DOI](https://zenodo.org/badge/149674585.svg)](https://zenodo.org/badge/latestdoi/149674585)
 <!-- badges: end -->
 
+# Paquete de manejo y obtención de información de la Encuesta Demográfica y de Salud Familiar de Perú
+
+## Descripción
+
 ENDES.PE es un paquete de manejo y obtención de información de la Encuesta Demográfica y de Salud Familiar del Perú. Este paquete permite la descarga de las bases de datos de la ENDES desde el portal Microdatos del [INEI](http://iinei.inei.gob.pe/microdatos/). 
 
 ## Instalación
