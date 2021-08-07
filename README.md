@@ -1,4 +1,4 @@
-# eph <a><img src='man/figures/logo.png' align="right" height="250" /></a>
+# ENDES.PE <a><img src='man/figures/logo.png' align="right" height="250" /></a>
 
 <!-- badges: start -->
 [![R build status](https://github.com/horaciochacon/ENDES.PE/workflows/R-CMD-check/badge.svg)](https://github.com/horaciochacon/ENDES.PE/actions)
